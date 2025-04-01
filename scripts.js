@@ -13,6 +13,9 @@ console.log(cadena.toLowerCase());
 //5
 console.log(cadena.indexOf("o"));
 
+//6
+console.log(cadena.indexOf("Hola"));
+
 
 //8
 
