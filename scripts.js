@@ -25,6 +25,7 @@ let segundaParte = cadena.split(" ")[1];
 console.log(segundaParte);
 
 //9
+console.log(cadena.startsWith("h"));
 
 
 //10
