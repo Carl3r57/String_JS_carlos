@@ -31,7 +31,11 @@ console.log(cadena.startsWith("h"));
 console.log(cadena.startsWith("H"));
 
 //11
-
+let letra = "r";
+console.log(letra.repeat(10));
 
 //12
+
+
+//13
 
