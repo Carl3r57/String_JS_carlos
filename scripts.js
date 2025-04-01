@@ -16,6 +16,9 @@ console.log(cadena.indexOf("o"));
 //6
 console.log(cadena.indexOf("Hola"));
 
+//7
+let cadenaNueva=cadena.replace("Mundo", "Youtube");
+console.log(cadenaNueva);
 
 //8
 
