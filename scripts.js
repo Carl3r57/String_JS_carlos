@@ -5,6 +5,7 @@ let cadena = "Hola Mundo";
 console.log(cadena.length);
 
 //3
+console.log(cadena.toUpperCase());
 
 
 //4
