@@ -27,9 +27,8 @@ console.log(segundaParte);
 //9
 console.log(cadena.startsWith("h"));
 
-
 //10
-
+console.log(cadena.startsWith("H"));
 
 //11
 
