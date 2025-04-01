@@ -11,12 +11,7 @@ console.log(cadena.toUpperCase());
 console.log(cadena.toLowerCase());
 
 //5
-
-
-//6
-
-
-//7
+console.log(cadena.indexOf("o"));
 
 
 //8
