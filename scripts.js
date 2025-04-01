@@ -35,7 +35,9 @@ let letra = "r";
 console.log(letra.repeat(10));
 
 //12
-
+let nombre = "Carlos";
+let apellidos = "Pizzino Ruiz";
+let edad = 18;
 
 //13
 
