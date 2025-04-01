@@ -2,7 +2,7 @@
 let cadena = "Hola Mundo";
 
 //2
-
+console.log(cadena.length);
 
 //3
 
