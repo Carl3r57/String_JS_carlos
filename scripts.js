@@ -40,4 +40,4 @@ let apellidos = "Pizzino Ruiz";
 let edad = 18;
 
 //13
-
+console.log(`Mi nombre es ${nombre} ${apellidos} y tengo ${edad} años.`);
