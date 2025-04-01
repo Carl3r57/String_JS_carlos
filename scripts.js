@@ -21,7 +21,8 @@ let cadenaNueva=cadena.replace("Mundo", "Youtube");
 console.log(cadenaNueva);
 
 //8
-
+let segundaParte = cadena.split(" ")[1];
+console.log(segundaParte);
 
 //9
 
