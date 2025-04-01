@@ -7,9 +7,8 @@ console.log(cadena.length);
 //3
 console.log(cadena.toUpperCase());
 
-
 //4
-
+console.log(cadena.toLowerCase());
 
 //5
 
